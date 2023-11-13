@@ -2,4 +2,4 @@
 
 
 
-# BookBot is my first gut project.
+# BookBot is my first git project.
